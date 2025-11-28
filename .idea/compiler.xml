@@ -9,5 +9,8 @@
         <module name="regex" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sizzleandserve" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
